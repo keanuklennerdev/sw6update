@@ -12,6 +12,7 @@
 - composer install
 - bin/build-js.sh
 - testing storefront, administration, apps, plugins, custom fields and cronjobs
+- change Dockerfile dockware tag version
 - git push update feature
 
 ## Shopware 6 Update Production
