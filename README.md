@@ -1,4 +1,4 @@
-## Shopware 6 Update Locally
+## Shopware <= 6.5 Update Locally
 - Setup latest version of a local dev environment with database
 - bin/console system:update:prepare
 - change package versions in composer.json (core, storefront, administration)
@@ -13,6 +13,6 @@
 - change Dockerfile dockware tag version
 - git push update feature
 
-## Shopware 6 Update Production
+## Shopware <= 6.5 Update Production
 - backup to save configuration files..
 - merge update feature
