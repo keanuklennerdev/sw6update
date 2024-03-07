@@ -4,6 +4,7 @@
 - change package versions in composer.json (core, storefront, administration)
 - composer update
 - check if every package is updateable and compatible
+- bin/console theme:dump
 - bin/console system:update:finish
 - composer recipes:update (execute suggested command for each package)
 - sudo rm -r vendor
